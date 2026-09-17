@@ -53,7 +53,7 @@ metadata: demo-metadata
 organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://cdil.lib.uidaho.edu/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
+organization-logo-banner: The Logo Banner
 organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
 
 ##########
